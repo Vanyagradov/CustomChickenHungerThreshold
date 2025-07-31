@@ -17,7 +17,7 @@ public partial class Plugin : BaseUnityPlugin
 
         configHungerThreshold = Config.Bind("General", "HungerThreshold", 0.6f, "Amount of hunger required to see other players as chickens");
 
-        UIPlayerNames.CANNIBAL_HUNGER_THRESHOLD = 0;
+        UIPlayerNames.CANNIBAL_HUNGER_THRESHOLD = configHungerThreshold.Value;
 
         Log.LogInfo($"Plugin {Name} is loaded!");
         Log.LogInfo($"Custom hunger threshold: {configHungerThreshold.Value}");

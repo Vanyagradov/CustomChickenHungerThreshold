@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
 	<RootNamespace>Vanyagradov_team.CustomChickenHungerThreshold</RootNamespace>
@@ -10,7 +10,7 @@
     <!-- This is the display name of your mod. Example: BepInEx Template -->
     <AssemblyTitle>CustomChickenHungerThreshold</AssemblyTitle>
     <!-- This is the version number of your mod. -->
-    <Version>1.0.2</Version>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <!--

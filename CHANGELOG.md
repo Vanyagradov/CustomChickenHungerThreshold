@@ -8,6 +8,16 @@
 
 ### Removed
 
+## [1.1.0] - 2025-07-31
+
+### Added
+
+### Changed
+
+- Fixed threshold always being set to 0
+
+### Removed
+
 ## [1.0.2] - 2025-07-31
 
 ### Added
