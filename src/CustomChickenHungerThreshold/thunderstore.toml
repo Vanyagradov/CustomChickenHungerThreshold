@@ -1,5 +1,5 @@
 [config]
-schemaVersion = "1.0.1"
+schemaVersion = "1.0.2"
 
 [general]
 repository = "https://thunderstore.io"
@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "Vanyagradov_team/CustomChickenHungerThreshold"
 name = "CustomChickenHungerThreshold"
 description = "Modifies the client hunger threshold that shows players as cooked turkeys and allows eating them."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+websiteUrl = "https://github.com/Vanyagradov/CustomChickenHungerThreshold.git"
 containsNsfwContent = false
 
 [package.dependencies]

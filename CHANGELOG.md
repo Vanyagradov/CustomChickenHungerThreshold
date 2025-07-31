@@ -8,6 +8,16 @@
 
 ### Removed
 
+## [1.0.2] - 2025-07-31
+
+### Added
+
+- Link to mod repository
+
+### Changed
+
+### Removed
+
 ## [1.0.1] - 2025-07-31
 
 ### Added
